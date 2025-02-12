@@ -1,8 +1,8 @@
 {
-  "short_name": "Расходы",
-  "name": "Expenses Tracker App",
-  "description": "Track your expenses and view your financial status",
-  "start_url": "/",
+  "name": "Финансовый блокнот",
+  "short_name": "Финанс",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
